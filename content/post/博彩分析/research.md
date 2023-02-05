@@ -65,13 +65,13 @@ https://hackmd.io/@squarecho/baccarat
 
 #### 利潤公式
 已知賠率計算利潤  
-$Margin = \frac{1}{Odd_A}+ \frac{1}{Odd_B}+ \frac{1}{Odd_X}-1$
+$$Margin = \frac{1}{Odd_A}+ \frac{1}{Odd_B}+ \frac{1}{Odd_X}-1$$
 
 #### 賠率公式
 已知隱含概率計算賠率，利潤可以自由設定  
-$Odd_A = \frac{1}{P_A \times (1+Margin)}$  
-$Odd_B = \frac{1}{P_B \times (1+Margin)}$  
-$Odd_X = \frac{1}{P_X \times (1+Margin)}$  
+$$Odd_A = \frac{1}{P_A \times (1+Margin)}  \\
+Odd_B = \frac{1}{P_B \times (1+Margin)}  \\
+Odd_X = \frac{1}{P_X \times (1+Margin)}$$ 
 
 ### 分析與討論
 {{< iframe "https://docs.google.com/spreadsheets/d/e/2PACX-1vQyzfjzye4LKdHtYIeO31nPJOi8LOu0tHYxucPhzSHFuZSlP_eLw7sR3ytsV6fh1oDCQvMZoxjUp0V8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" 400px 400px >}}
@@ -106,20 +106,19 @@ x|1.95|175|13.75
 2|4|80|35
 
 ### 計算驗證
-$X = \frac{175}{100} = 1.75 \leq \frac{O_1}{O_2} = \frac{3.5}{1.95} = 1.794871795$  
-$X = \frac{80}{100} = 0.8 \leq \frac{O_1}{O_3} = \frac{3.5}{4} = 0.875$  
-
+$$X = \frac{175}{100} = 1.75 \leq \frac{O_1}{O_2} = \frac{3.5}{1.95} = 1.794871795 \\ 
+X = \frac{80}{100} = 0.8 \leq \frac{O_1}{O_3} = \frac{3.5}{4} = 0.875$$ 
 
 ### 兩個選項的通贏公式證明
 
 #### 通贏公式
-$O_2\leq \frac{B_1}{B_2} \leq \frac{1}{O_1}$
+$$O_2\leq \frac{B_1}{B_2} \leq \frac{1}{O_1}$$
 
 #### 參數定義
-- $O_1=下注1可獲得的小數賠率$
-- $O_2=下注2可獲得的小數賠率$
-- $B_1=下注1總下注量$
-- $B_2=下注2總下注量$
+$$O_1=下注1可獲得的小數賠率$$
+$$O_2=下注2可獲得的小數賠率$$
+$$B_1=下注1總下注量$$
+$$B_2=下注2總下注量$$
 
 #### 證明過程
 
@@ -153,8 +152,8 @@ $$\begin{align\*}O_2\leq \frac{B_1}{B_2} \leq \frac{1}{O_1} \ \  proven\end{alig
 
 #### 通贏公式
 1. 同除其中一個下注量 $(B_1,B_2,B_3) => (1,X,Y)$
-2. $X \leq \frac{O_1}{O_2}$
-3. $Y \leq \frac{O_1}{O_3}$
+2. $$X \leq \frac{O_1}{O_2}$$
+3. $$Y \leq \frac{O_1}{O_3}$$
 
 
 #### 參數定義
@@ -197,16 +196,16 @@ Similarly, \ \ \  Y \leq \frac{O_1}{O_2} \ \ proven
 
 #### 通贏公式
 1. 同除其中一個下注量 $(B_1,B_2,...,B_n) => (1,X_2,..,X_n)$
-2. $X_2 \leq \frac{O_1}{O_2}$
-3. $X_3 \leq \frac{O_1}{O_3}$
-4. $...$
-5. $X_n \leq \frac{O_1}{O_n}$
+2. $$X_2 \leq \frac{O_1}{O_2}$$
+3. $$X_3 \leq \frac{O_1}{O_3}$$
+4. $$...$$
+5. $$X_n \leq \frac{O_1}{O_n}$$
 
 
 #### 參數定義
-- $O_i=下注i可獲得的小數賠率$
-- $B_i=下注i總下注量$
-- $X_i=\frac{B_i}{B_1}下注i與1總下注量比值$
+- $$O_i=下注i可獲得的小數賠率$$
+- $$B_i=下注i總下注量$$
+- $$X_i=\frac{B_i}{B_1}下注i與1總下注量比值$$
 
 #### 證明方式
 1. 根據數學歸納法證明
@@ -218,10 +217,10 @@ Similarly, \ \ \  Y \leq \frac{O_1}{O_2} \ \ proven
 
 ### 兩個選項
 #### 公式
-$Odd_B = \frac{1}{Margin+1-\frac{1}{Odd_A}}$
+$$Odd_B = \frac{1}{Margin+1-\frac{1}{Odd_A}}$$
 #### 證明
-$\because\ 利潤公式:\ \frac{1}{Odd_{A}}+\frac{1}{Odd_{B}} = Margin$
-移項整理後可得$Odd_B = \frac{1}{Margin+1-\frac{1}{Odd_A}} \ \  proven$
+$$\because\ 利潤公式:\ \frac{1}{Odd_{A}}+\frac{1}{Odd_{B}} = Margin  \\ 
+移項整理後可得$Odd_B = \frac{1}{Margin+1-\frac{1}{Odd_A}} \ \  proven$$
 
 
 ## 控盤損益表展示
