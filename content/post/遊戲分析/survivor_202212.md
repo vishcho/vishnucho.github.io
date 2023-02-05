@@ -11,13 +11,12 @@ toc: true
 ---
 
 # 達達特攻聖誕三次大獎?　歐皇都抽六次的！
-數學不會騙人，他它就是不會
-
 ## 遊戲規則
 - 5x5賓果連線遊戲,共25格可以抽
 - 三連線就會刷新盤面,共11條連線
 
 ![](https://i.imgur.com/dgYZACk.png)
+<!--more-->
 
 ## 1000萬次模擬結果
 連線數|次數|機率
@@ -34,7 +33,6 @@ toc: true
 直線大獎(5,11)|8.40%	
 斜線大獎(0~4 6~10)|8.03%
 
-<!--more-->
 
 ## 盤面定義
 bingo|column0|column1|column2|column3|column4|bonus
@@ -46,7 +44,7 @@ row3|3,0|3,1|3,2|3,3|3,4|bonus3
 row4|4,0|4,1|4,2|4,3|4,4|bonus4
 bonus5|bonus6|bonus7|bonus8|bonus9|bonus10|bonus11
 
-
+> 數學不會騙人，他它就是不會
 ## 模擬程式碼分享
 ```golang
 package main

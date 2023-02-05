@@ -33,7 +33,7 @@ main:
     weight: 3
   - identifier: plane
     name: 航空城
-    pageref: /航空城
+    pageref: /categories/桃園航空城/
     pre: plane
     weight: 4
   - identifier: blog

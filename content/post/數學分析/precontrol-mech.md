@@ -8,6 +8,7 @@ tags:
  - "game"
  - "rtp"
 toc: true
+mermaid: true
 ---
 # 遊戲期望RTP動態調整 - 事前控制 precontrol
 
@@ -15,7 +16,7 @@ toc: true
 在玩遊戲的時候, 根據期望RTP事先骰出此局要玩原生遊戲或必不中獎遊戲  
 RTP可動態範圍 [0,basisRTP]
 
-{{< mermaid >}}
+{{< mermaid align="left" >}}
 graph LR
 A["指定某個expectRTP"]--"有expectRTP/basisRTP機率"--->B("原生遊戲 RTP=basisRTP")
 A--"有1-expectRTP/basisRTP機率"-->C["必不中遊戲 RTP=0"]

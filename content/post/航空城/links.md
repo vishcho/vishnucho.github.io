@@ -7,6 +7,8 @@ toc: true
 ---
 
 # 航空城資訊連結懶人包
+![Aerotropolis_LineQR](/post/航空城/imgs/Aerotropolis_LineQR.jpg)
+<!--more-->
 
 ## 政府連結
 - [航空城土地交易透明化平台](https://e91plus.tycg.gov.tw/AIR/Index)
@@ -17,15 +19,13 @@ toc: true
 - [桃園市府信箱](https://taotalk.tycg.gov.tw/)
 
 ## Youtube資訊
-- [台灣解碼中 - 航空城超級懶人包](https://www.youtube.com/watch?v=3TgcpNb2oYo)
-- [台灣解碼中 - 全新千億第三航廈](https://www.youtube.com/watch?v=y_peWFSh1Qo)
-- [台灣解碼中 - 桃園捷運最新核定](https://www.youtube.com/watch?v=_nxcRrOGN6Q)
+- [台灣解碼中 - 航空城超級懶人包](https://www.youtube.com/watch?v=3TgcpNb2oYo) <- 航空城資訊
+- [台灣解碼中 - 全新千億第三航廈](https://www.youtube.com/watch?v=y_peWFSh1Qo) <- 第三航廈資訊
+- [台灣解碼中 - 桃園捷運最新核定](https://www.youtube.com/watch?v=_nxcRrOGN6Q) <- 桃園捷運資訊
 
 ## 社群連結
-![Aerotropolis_LineQR](/assets/img/Aerotropolis_LineQR.jpg)
+
 - [Line社群 航空城討論群](https://line.me/ti/g2/oPkGC0VbplZbTII3F5la1gjRjzaiJdV0vnR09w?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
 - [FB 航空城拆遷安置發展討論區](https://www.facebook.com/groups/209722129209052/?ref=share)
 - [FB 航空城配地自建討論區](https://www.facebook.com/groups/171399491676077/?ref=share)
 
-
-<!--more-->

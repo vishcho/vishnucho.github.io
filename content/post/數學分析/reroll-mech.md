@@ -8,6 +8,8 @@ tags:
  - "game"
  - "rtp"
 toc: true
+mermaid: true
+math: katex 
 ---
 # 遊戲動態RTP調整方案 - 重擲控制 Reroll
 
