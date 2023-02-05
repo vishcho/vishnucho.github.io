@@ -1,7 +1,4 @@
-#--------------------------------------
 # 中文版本
-#--------------------------------------
-
 archives:
   other: 文章
 tag:
@@ -31,7 +28,7 @@ SymbolComma:
   other: "，"
 SymbolPeriod:
   other: "。"
- 
+
 SbPostsLable:
   other: 日志
 SbCatesTitle:
@@ -116,7 +113,7 @@ PostCROriginLink:
 PostCRLicenseTitle:
   other: 版权声明
 PostCRLicenseContent:
-  other: "本博客所有文章除特别声明外，均采用 <i class=\"fab fa-fw fa-creative-commons\"></i>%s 许可协议。转载请注明出处！"
+  other: '本博客所有文章除特别声明外，均采用 <i class="fab fa-fw fa-creative-commons"></i>%s 许可协议。转载请注明出处！'
 
 PostFollowMe:
   other: 欢迎关注我的其它发布渠道
