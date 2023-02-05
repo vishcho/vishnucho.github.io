@@ -11,7 +11,7 @@ toc: true
 
 # LoR蘑菇 - 陷阱卡抽取問題
 
-![teemo](/assets/img/teemo.png "LoR提摩蘑菇展示")
+![teemo](/post/遊戲分析/imgs/Teemo_0.png "LoR提摩蘑菇展示")
 
 ## 蘑菇陷阱卡說明
 1. 蘑菇會隨機種在牌庫的其中一張牌

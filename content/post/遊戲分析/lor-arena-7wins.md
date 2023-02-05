@@ -11,7 +11,7 @@ toc: true
 
 # LoR遠征 - 雙淘汰賽制分析
 
-![lor-arena-7wins](/assets/img/lor-arena-7wins.jpg "LoR遠征展示")
+![lor-arena-7wins](/post/遊戲分析/imgs/lor-arena-7wins.jpg "LoR遠征展示")
 
 ## 規則
 
