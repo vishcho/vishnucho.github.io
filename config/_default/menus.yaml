@@ -31,13 +31,13 @@ main:
     pageref: /flinks.html
     pre: thumbs-up
     weight: 3
-  - identifier: archives
-    name: 归档
-    pageref: /archives
-    pre: archive
+  - identifier: plane
+    name: 航空城
+    pageref: /航空城
+    pre: plane
     weight: 4
-  - identifier: commonweal
-    name: 公益 404
-    url: /404.html
-    pre: heartbeat
+  - identifier: blog
+    name: 個人網誌
+    pageref: /post
+    pre: leaf
     weight: 5
