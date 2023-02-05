@@ -23,8 +23,6 @@ E| $y = 7\sin(1.23y-4.4)+38$  |波動：兩人一起時總是心情蕩漾
 
 <!--more-->
 
-
-{{< love >}}
 ## 線上數學作圖連結分享
 [Desmos: www.desmos.com/calculator/o7dksfmlll](https://www.desmos.com/calculator/o7dksfmlll)  
 [Geogebra : www.geogebra.org/calculator/wfmr7cpu](https://www.geogebra.org/calculator/wfmr7cpu)  
