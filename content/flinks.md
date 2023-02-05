@@ -4,7 +4,7 @@ type: flinks
 url: flinks.html
 ---
 
-TOD如想交换本站友情链接，请在评论区留下你的站点信息，格式参考如下：
+如果想交換本站友情連結，請在評論區留下你的站點訊息，格式參考如下：
 
 ```yaml
 - name: Hugo-NexT
