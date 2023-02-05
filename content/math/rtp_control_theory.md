@@ -1,0 +1,91 @@
+---
+title: "遊戲殺率控制理論 Game RTP Control Theory"
+date: "2022-10-20"
+categories:
+ - "math"
+tags:
+ - "math"
+ - "game"
+ - "rtp"
+toc: true
+---
+
+# 遊戲殺率控制理論 Game RTP Control Theory
+
+
+
+## RTP動態調整 - 避免過大波動
+
+如果一個原生遊戲玩法如下:
+```
+下注 $1
+50% 概率額外獲得$0.95(共獲得$1.95)
+50% 概率失去下注額
+```
+### 控制原理
+- 當玩家獲利超乎預期時, 讓玩家玩RTP較低的遊戲
+- 當玩家獲利低於預期時, 讓玩家玩RTP較高的遊戲
+
+### 未控制的餘額折線圖
+![without_control](/assets/img/without_control.png "未控制的餘額折線圖")
+
+### 有控制的餘額折線圖
+```go
+if balance > fixed_balance{
+//     下注 $1
+// 45% 概率額外獲得$0.95(共獲得$1.95)
+// 55% 概率失去下注額
+}else{
+//     下注 $1
+// 55% 概率額外獲得$0.95(共獲得$1.95)
+// 45% 概率失去下注額
+}
+```
+![with_control](/assets/img/with_control.png "有控制的餘額折線圖")
+
+
+<!--more-->
+
+### 測試試算表分享
+https://docs.google.com/spreadsheets/d/1Idbr2m2Nti8CrI8pALOThb5Ojho1tLE3zhpf-h6yT30/edit?usp=sharing
+
+### 小結
+RTP動態調整重點在於穩定RTP, 避免過大的波動
+
+
+## 玩家個別殺率 - 針對個別玩家體驗
+
+### 個人水池機制
+玩家的輸贏會累計至水池, 水位高低會影響開獎機率  
+
+#### 手法列表
+控制種類|波動影響|手法
+---|---|---
+修正型|縮小波動|高水位殺, 低水位送
+個人Jackpot|放大波動, 增加體感| 水位低過閾值時, 給其一場較佳的體驗
+#### 水位紀錄
+方式|參數量|特點
+---|---|---
+輸贏淨值|1|絕對值的概念
+總收入/總支出|2|相對值的概念
+
+### 標籤機制
+根據其玩家標籤執行不同殺率行為
+#### 標籤範例
+- 新手標籤
+- 養魚標籤
+- 殺盤標籤
+
+
+
+## 遊戲殺率控制設計筆記
+- https://hackmd.io/@squarecho/Game-RTP-Control-v4
+- https://hackmd.io/@squarecho/Game-RTP-Control-v3
+- https://hackmd.io/@squarecho/Game-RTP-Control-v2
+- https://hackmd.io/@squarecho/Game-RTP-Control
+
+
+## 相關連結
+- [遊戲殺率控制理論 Game RTP Control Theory](../rtp_control_theory)
+- [遊戲期望RTP動態調整 - 重擲控制 Reroll](../reroll-mech)
+- [遊戲期望RTP動態調整 - 事前控制 preControl](../precontrol-mech)
