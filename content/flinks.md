@@ -8,7 +8,7 @@ url: flinks.html
 
 ```yaml
 - name: Hugo-NexT
-  desc: Hugo NexT 官方预览网站。
+  desc: Hugo NexT 官方預覽網站。
   avatar: https://hugo-next.eu.org/imgs/hugo_next_avatar.png
   link: https://hugo-next.eu.org
 ```

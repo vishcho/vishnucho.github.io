@@ -2,7 +2,7 @@
 title: "LoR遠征 - 雙淘汰賽制分析"
 date: 2021-03-15
 categories:
- - "game"
+ - "遊戲分析"
 tags:
  - "math"
  - "game"

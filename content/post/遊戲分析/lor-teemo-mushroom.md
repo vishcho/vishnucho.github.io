@@ -2,7 +2,7 @@
 title: "LoR蘑菇 - 陷阱卡抽取問題"
 date: 2021-03-17
 categories:
- - "game"
+ - "遊戲分析"
 tags:
  - "math"
  - "game"

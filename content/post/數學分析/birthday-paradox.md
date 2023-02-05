@@ -2,7 +2,7 @@
 title: "生日悖論 Birthday Paradox"
 date: "2021-05-27"
 categories:
- - "數學分析s"
+ - "數學分析"
 tags:
  - "math"
  - "paradox" 
