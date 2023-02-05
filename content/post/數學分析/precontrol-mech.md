@@ -2,7 +2,7 @@
 title: "遊戲期望RTP動態調整 - 事前控制 preControl"
 date: "2022-12-07"
 categories:
- - "math"
+ - " 數學分析"
 tags:
  - "math"
  - "game"

@@ -2,7 +2,7 @@
 title: "愛的方程式 LOVE Formula"
 date: "2018-07-03"
 categories:
- - "math"
+ - " 數學分析"
 tags:
  - "math"
  - "formula"

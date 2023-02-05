@@ -2,7 +2,7 @@
 title: "遊戲期望RTP動態調整 - 重擲控制 Reroll"
 date: "2022-06-06"
 categories:
- - "math"
+ - " 數學分析"
 tags:
  - "math"
  - "game"

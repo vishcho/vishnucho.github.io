@@ -2,7 +2,7 @@
 title: "遊戲槓桿規則 Leverage Rule"
 date: "2022-06-06"
 categories:
- - "math"
+ - " 數學分析"
 tags:
  - "math"
  - "game"

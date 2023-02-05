@@ -2,7 +2,7 @@
 title: "彩票動態調整賠率機制"
 date: "2022-11-21"
 categories:
- - "bet"
+ - "博彩分析"
 tags:
  - "bet"
  - "math"

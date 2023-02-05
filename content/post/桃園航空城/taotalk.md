@@ -2,7 +2,7 @@
 title: "桃園市府信箱陳情進度"
 date: "2023-01-11"
 categories:
- - "aerotropolis"
+ - "桃園航空城"
 toc: true
 ---
 
@@ -13,5 +13,6 @@ https://taotalk.tycg.gov.tw/
 ![](/post/aerotropolis/imgs/20230111-1.png)
 ![](/post/aerotropolis/imgs/20230111-2.png)
 ## 回應
+![](/post/aerotropolis/imgs/20230118-1.png)
 
 <!--more-->

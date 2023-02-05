@@ -2,7 +2,7 @@
 title: "隨機的浪漫 - 機率真的測不準還是命中注定?"
 date: "2023-01-13"
 categories:
- - "math"
+ - " 數學分析"
 tags:
  - "math"
 toc: true

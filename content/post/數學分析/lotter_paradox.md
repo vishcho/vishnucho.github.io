@@ -2,7 +2,7 @@
 title: "尾牙時,抽100份獎項給40人,竟然三年都有人沒抽到"
 date: "2021-03-12"
 categories:
- - "math"
+ - " 數學分析"
 tags:
  - "math"
  - "paradox" 

@@ -2,7 +2,7 @@
 title: "彩票技術綜合研究"
 date: "2022-11-11"
 categories:
- - "bet"
+ - "博彩分析"
 tags:
  - "bet"
  - "math"

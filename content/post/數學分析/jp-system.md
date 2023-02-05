@@ -2,7 +2,7 @@
 title: "Jackpot系統分析 Jackpot System"
 date: "2022-10-24"
 categories:
- - "math"
+ - " 數學分析"
 tags:
  - "math"
  - "game" 

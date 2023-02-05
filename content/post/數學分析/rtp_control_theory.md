@@ -2,7 +2,7 @@
 title: "遊戲殺率控制理論 Game RTP Control Theory"
 date: "2022-10-20"
 categories:
- - "math"
+ - " 數學分析"
 tags:
  - "math"
  - "game"

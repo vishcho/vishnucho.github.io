@@ -2,7 +2,7 @@
 title: "常見遊戲道具強化機制-保底強化模型"
 date: "2021-03-16"
 categories:
- - "math"
+ - "數學分析"
 tags:
  - "math"
  - "game" 

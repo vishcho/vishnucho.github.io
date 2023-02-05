@@ -2,7 +2,7 @@
 title: "賠率設計模式"
 date: "2022-11-22"
 categories:
- - "bet"
+ - "博彩分析"
 tags:
  - "bet"
  - "math"

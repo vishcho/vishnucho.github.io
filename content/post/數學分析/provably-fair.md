@@ -2,7 +2,7 @@
 title: "公正雜湊驗證機制"
 date: "2022-05-28"
 categories:
- - "math"
+ - " 數學分析"
 tags:
  - "math"
  - "hash"
