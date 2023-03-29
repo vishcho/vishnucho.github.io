@@ -2,7 +2,7 @@
 title: "科幻小說 - 永恆遊戲 Foreve Game"
 date: "2023-03-29"
 categories:
-  - "科幻小說"
+  - "novel"
 tags:
   - "novel"
 toc: true
