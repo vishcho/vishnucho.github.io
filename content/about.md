@@ -1,5 +1,5 @@
 ---
-title: " 關於 Vishnu卓"
+title: "關於 Vishnu卓"
 description: "為了守護妳的存在。"
 
 date: 2016-07-03T20:12:52+08:00
