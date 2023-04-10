@@ -1,0 +1,39 @@
+---
+title: "Jackpot系統分析 Jackpot System"
+date: "2022-10-24"
+categories:
+  - " 數學分析"
+tags:
+  - "math"
+  - "game"
+toc: true
+---
+
+# Jackpot 系統分析 Jackpot System
+
+## 模型
+
+1. 每次下注(BetAmount)有一定比例(BetJpRatio)放入 Jp 池
+2. 每次下注有(1/HitFrequency)機率觸發拉獎, 拉獎金額為目前(Jp 池大小 x PullRatio)
+
+![jp_system_1](./jp_system_1.png "Jp累積值對下注次數折線圖")
+
+<!--more-->
+
+| 變數名稱     | 功能             | 上圖參數 |
+| ------------ | ---------------- | -------- |
+| StableNum    | 穩定值           | 200000   |
+| BetAmount    | 下注量           | 100      |
+| BetJpRatio   | 下注放入 Jp 比例 | 0.02     |
+| PullRatio    | 拉獎比例         | 0.1      |
+| HitFrequency | 拉獎頻率         | 10000    |
+
+StableNum = 100 x 0.02 x 10000 / 0.1 = 200000
+
+## Jp 長期穩定值數學分析
+
+$$
+穩定態條件: 拉獎期望值 = 放入期望值 \\
+StableNum  \times PullRatio = BetAmount \times BetJpRatio \times HitFrequency\\
+StableNum = \frac{BetAmount \times BetJpRatio \times HitFrequency }{ PullRatio}
+$$

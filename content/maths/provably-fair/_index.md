@@ -16,7 +16,7 @@ toc: true
 
 ## 玩家驗證角度看流程圖
 
-![provably-fair](imgs/provably-fair.png)
+![provably-fair](./provably-fair.png)
 
 ## 機制概述
 
