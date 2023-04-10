@@ -16,7 +16,7 @@ toc: true
 2023/3/29 更新至第一集
 ```
 
-![moon](/post/novels/imgs/Moon.jpg)
+![moon](./Moon.jpg)
 
 > 序
 
