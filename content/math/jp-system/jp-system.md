@@ -16,7 +16,7 @@ toc: true
 1. 每次下注(BetAmount)有一定比例(BetJpRatio)放入 Jp 池
 2. 每次下注有(1/HitFrequency)機率觸發拉獎, 拉獎金額為目前(Jp 池大小 x PullRatio)
 
-![jp_system_1](./imgs/jp_system_1.png "Jp累積值對下注次數折線圖")
+![jp_system_1](/imgs/author.png "Jp累積值對下注次數折線圖")
 
 <!--more-->
 
