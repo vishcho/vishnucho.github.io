@@ -1,3 +1,4 @@
 # vishucho.github.io
 
-This is Vishnu 卓's Blog
+Welcome to my Blog
+I'm Vishnu 卓
