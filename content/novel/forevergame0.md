@@ -14,7 +14,7 @@ toc: true
 - 2023/3/30 更新至第四集
 - 2023/3/29 更新至第一集
 
-![moon](./imgs/Moon.jpg)
+![moon](/imgs/forevergame/Moon.jpg)
 
 > 序
 
