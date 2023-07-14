@@ -12,7 +12,7 @@ copyright: false
 url: about.html
 ---
 
-# Vishnu 是守護之神。
+# Vishnu 是守護之神
 
 歡迎你/妳與我的世界有所交集。
 
