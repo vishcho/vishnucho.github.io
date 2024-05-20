@@ -11,7 +11,7 @@ license that can be found in the LICENSE file.
 	<title>Go wasm</title>
 </head>
 
-<body>
+<body onload="run();">
 	<!--
 	Add the following polyfill for Microsoft Edge 17/18 support:
 	<script src="https://cdn.jsdelivr.net/npm/text-encoding@0.7.0/lib/encoding.min.js"></script>
@@ -36,14 +36,14 @@ license that can be found in the LICENSE file.
 			console.error(err);
 		});
 
-		async function run() {
-			console.clear();
-			await go.run(inst);
-			inst = await WebAssembly.instantiate(mod, go.importObject); // reset instance
-		}
+		// async function run() {
+		// 	console.clear();
+		// 	await go.run(inst);
+		// 	inst = await WebAssembly.instantiate(mod, go.importObject); // reset instance
+		// }
 	</script>
 
-	<button onClick="run();" id="runButton" disabled>Run</button>
+	<!-- <button onClick="run();" id="runButton" disabled>Run</button> -->
 </body>
 
 </html>
