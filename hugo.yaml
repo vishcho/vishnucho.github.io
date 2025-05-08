@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true   # needs to be explicitly set
-    title: 永恆遊戲實驗室
+    title: 永恆遊戲研究所
     subtitle: "緣分還是巧合"
     imageUrl: "/images/wolf.jpg"
     imageWidth: 120
