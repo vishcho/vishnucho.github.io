@@ -22,7 +22,7 @@ params:
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -78,15 +78,9 @@ params:
 
   socialIcons:
     - name: telegram
-      url: "https://t.me/forevergame_org"
-    - name: line
-      url: "https://line.me/R/ti/p/%40forevergame"
+      url: "https://t.me/vishcho/"
     - name: linkedin
-      url: "https://www.linkedin.com/company/forevergame"
-    - name: cake
-      url: "https://www.facebook.com/forevergame.org"
-    - name: mail
-      url: "mailto:support@forevergame.org"
+      url: "https://www.linkedin.com/in/vishcho/"
 
 
   analytics:
@@ -104,7 +98,7 @@ params:
 
   editPost:
     URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
+    Text: "Suggest Changes2" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search

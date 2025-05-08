@@ -4,7 +4,7 @@ date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
-author: "Me"
+author: "Vish"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -17,10 +17,10 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
@@ -30,7 +30,7 @@ cover:
   relative: false # when using page bundles set this to true
   hidden: true # only hide on current single page
 editPost:
-  URL: "https://github.com/vishnucho/vishnucho.github.io"
-  Text: "Suggest Changes" # edit text
+  URL: "https://github.com/vishcho/vishnucho.github.io/edit/main/content"
+  Text: "GitHub" # edit text
   appendFilePath: true # to append file path to Edit link
 ---
