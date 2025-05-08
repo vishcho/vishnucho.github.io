@@ -31,6 +31,6 @@ cover:
   hidden: true # only hide on current single page
 editPost:
   URL: "https://github.com/vishcho/vishnucho.github.io/edit/main/content"
-  Text: "GitHub" # edit text
+  Text: "edit" # edit text
   appendFilePath: true # to append file path to Edit link
 ---
