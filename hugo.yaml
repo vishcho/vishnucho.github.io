@@ -66,10 +66,10 @@ params:
     imageHeight: 120
     imageTitle: wolf
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      - name: 航空城懶人包
+        url: /aerotropolis/
+      - name: 遊戲AI懶人包
+        url: /game_ai/
 
   # home-info mode
   homeInfoParams:
