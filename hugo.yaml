@@ -45,11 +45,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/images/moon-32.png"
+    favicon16x16: "/images/moon-16.png"
+    favicon32x32: "/images/moon-32.png"
+    apple_touch_icon: "/images/moon-32.png"
+    safari_pinned_tab: "/images/moon-32.png"
 
   label:
     text: "Home"
