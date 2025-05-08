@@ -1,2 +1,3 @@
 # vishucho.github.io
-This is Vishnu Cho's Blog
+
+Welcome to Vish Blog
