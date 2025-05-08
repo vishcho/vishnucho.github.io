@@ -114,14 +114,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: aerotropolis
+      name: 航空城
+      url: /aerotropolis/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
