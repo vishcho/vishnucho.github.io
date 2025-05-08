@@ -85,7 +85,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "google3a744ed7c17b0626"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
