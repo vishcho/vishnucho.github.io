@@ -1,9 +1,3 @@
-# baseURL: https://example.org/
-# languageCode: en-us
-# title: My New Hugo Site
-# theme: ["PaperMod"]
-
-
 baseURL: "https://www.forevergame.org/"
 title: Forever Game
 theme: PaperMod
@@ -64,13 +58,13 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    enabled: true   # needs to be explicitly set
+    title: 永恆遊戲實驗室
+    subtitle: "緣分還是巧合"
+    imageUrl: "/images/wolf.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: wolf
     buttons:
       - name: Posts
         url: posts
@@ -134,10 +128,6 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
