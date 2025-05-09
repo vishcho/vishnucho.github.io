@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Portfolio]
   author: "Vish"
   # author: ["Me", "You"] # multiple authors
-  images: ["/images/forervergame_cover.png"]
+  images: ["/images/forervergame_org_cover.png"]
   DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false

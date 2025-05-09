@@ -23,9 +23,9 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-images: ["https://www.forevergame.org/images/forervergame_cover.png"]
+images: ["https://www.forevergame.org/images/forervergame_org_cover.png"]
 cover:
-  image: "/images/forervergame_cover.png" # image path/url
+  image: "/images/forervergame_org_cover.png" # image path/url
   alt: "" # alt text
   caption: "" # display caption under cover
   relative: false # when using page bundles set this to true
