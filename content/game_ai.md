@@ -23,6 +23,7 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
+images: ["https://www.forevergame.org/images/forervergame_cover.png"]
 cover:
   image: "/images/forervergame_cover.png" # image path/url
   alt: "" # alt text
