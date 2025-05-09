@@ -16,10 +16,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  title: 永恆遊戲研究所
+  description: "緣分還是巧合"
+  keywords: [Blog, Portfolio]
+  author: "Vish"
   # author: ["Me", "You"] # multiple authors
   images: ["/images/forervergame_cover.png"]
   DateFormat: "2006-01-02"
