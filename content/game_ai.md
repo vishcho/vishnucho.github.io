@@ -6,7 +6,7 @@ date: 2025-05-01T11:30:03+00:00
 # tags: ["first"]
 author: "Vish"
 # author: ["Me", "You"] # multiple authors
-showToc: false
+showToc: true
 TocOpen: true
 draft: false
 hidemeta: false
