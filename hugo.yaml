@@ -116,14 +116,19 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: aerotropolis
-      name: 航空城
-      url: /aerotropolis/
+    - identifier: golang
+      name: Go程式語言
+      url: /golang/
       weight: 10
     - identifier: game_ai
       name: 遊戲AI
       url: /game_ai/
       weight: 20
+    - identifier: aerotropolis
+      name: 航空城
+      url: /aerotropolis/
+      weight: 30
+
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
