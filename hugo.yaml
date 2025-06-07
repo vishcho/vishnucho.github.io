@@ -66,6 +66,8 @@ params:
     imageHeight: 120
     imageTitle: wolf
     buttons:
+      - name: Golang 懶人包
+        url: /golang/
       - name: 航空城懶人包
         url: /aerotropolis/
       - name: 遊戲AI懶人包
