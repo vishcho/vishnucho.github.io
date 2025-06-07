@@ -119,6 +119,16 @@ editPost:
 
 ## 社群連結
 
+**入群請回答此二十五個關鍵字之一**
+
+```golang
+break/case/chan/const/continue/
+default/defer/else/fallthrough/
+for/func/go/goto/if/import/
+interface/map/package/range/
+return/select/struct/switch/type/var
+```
+
 [Line 社群 Golang 技術分享](https://line.me/ti/g2/87Affh8Js_Zh2-1-2ZeK_4Qck-5H0iCoyymbIw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
 
 ![Line 社群 Golang 技術分享](/images/golang_line.jpg)
