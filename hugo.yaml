@@ -79,6 +79,10 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
+    - name: threads
+      url: "https://www.threads.net/@vishchophi"
+    - name: instagram
+      url: "https://www.instagram.com/vishchophi/"
     - name: telegram
       url: "https://t.me/vishcho/"
     - name: linkedin
