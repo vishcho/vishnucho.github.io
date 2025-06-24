@@ -36,6 +36,6 @@ editPost:
   appendFilePath: true # to append file path to Edit link
 ---
 
-[北大排球 Line 社群](https://line.me/ti/g2/_XDA6vRn-5aLm7O_BNNcyY-e4KpnR526G-u_Ug?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+[北大排球 Line 社群 <- 請點我](https://line.me/ti/g2/_XDA6vRn-5aLm7O_BNNcyY-e4KpnR526G-u_Ug?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
 
 ![北大排球 Line 社群](/images/volleyball_line.jpg)

@@ -48,6 +48,6 @@ editPost:
 
 ## 社群連結
 
-[Line 社群 航空城討論群](https://line.me/ti/g2/oPkGC0VbplZbTII3F5la1gjRjzaiJdV0vnR09w?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+[Line 社群 航空城討論群 <- 請點我](https://line.me/ti/g2/oPkGC0VbplZbTII3F5la1gjRjzaiJdV0vnR09w?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
 
 ![Line 社群 航空城討論群](/images/aerotropolis_line.jpg)

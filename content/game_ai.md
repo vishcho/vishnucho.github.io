@@ -86,6 +86,6 @@ editPost:
 
 ## 社群連結
 
-[Line 社群 遊戲 AI 技術分享](https://line.me/ti/g2/WZFX8_hNNICWfeQIPX6B2tb6WONGh_otbL7s3g?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+[Line 社群 遊戲 AI 技術分享 <- 請點我](https://line.me/ti/g2/WZFX8_hNNICWfeQIPX6B2tb6WONGh_otbL7s3g?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
 
 ![Line 社群 遊戲AI技術分享](/images/game_ai_line.jpg)
