@@ -66,12 +66,14 @@ params:
     imageHeight: 120
     imageTitle: wolf
     buttons:
-      - name: Golang 懶人包
+      - name: Go 語言
         url: /golang/
-      - name: 航空城懶人包
+      - name: 航空城
         url: /aerotropolis/
-      - name: 遊戲AI懶人包
+      - name: 遊戲AI
         url: /game_ai/
+      - name: 北大排球
+        url: /volleyball/
 
   # home-info mode
   homeInfoParams:
@@ -119,7 +121,7 @@ params:
 menu:
   main:
     - identifier: golang
-      name: Go程式語言
+      name: Go 語言
       url: /golang/
       weight: 10
     - identifier: game_ai
@@ -130,6 +132,10 @@ menu:
       name: 航空城
       url: /aerotropolis/
       weight: 30
+    - identifier: volleyball
+      name: 北大排球
+      url: /volleyball/
+      weight: 40
 
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
