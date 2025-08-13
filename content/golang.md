@@ -1,6 +1,20 @@
 ---
-title: "Golang 技術懶人包"
-date: 2025-06-01T11:30:03+00:00
+title: "Golang 技術懶人包｜學習路線、範例教學與實用資源整理"
+date: 2025-08-12T11:30:03+00:00
+description: "完整的 Golang（Go 語言）學習資源懶人包，涵蓋入門、範例實作、進階文章、中文資源、社群互動與影音教學，幫助你快速掌握 Go 語法與最佳實踐。"
+keywords:
+  [
+    "Golang",
+    "Go 語言",
+    "Golang 入門",
+    "Go 教學",
+    "Gopher",
+    "Go 學習資源",
+    "Go 語法範例",
+    "Golang 範例程式",
+    "Go 語言教學",
+    "Golang 學習路線",
+  ]
 # weight: 1
 # aliases: ["/first"]
 # tags: ["first"]
@@ -11,7 +25,6 @@ TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-description: "常用連結整理與社群分享"
 canonicalURL: "https://www.forevergame.org/golang"
 disableShare: false
 disableHLJS: false
@@ -26,8 +39,8 @@ UseHugoToc: true
 images: ["https://www.forevergame.org/images/golang_cover.png"]
 cover:
   image: "/images/golang_cover.png" # image path/url
-  alt: "" # alt text
-  caption: "" # display caption under cover
+  alt: "Golang 技術懶人包封面" # alt text
+  caption: "Golang 技術懶人包：完整學習路線與資源" # display caption under cover
   relative: false # when using page bundles set this to true
   hidden: true # only hide on current single page
 editPost:
@@ -36,7 +49,8 @@ editPost:
   appendFilePath: true # to append file path to Edit link
 ---
 
-以下懶人包依「學習階段 ➜ 範例實作 ➜ 進階深讀 ➜ 中文資源 ➜ 社群互動 ➜ 影音教學」六大區塊整理。建議先從官方文件快速破冰，再搭配範例與練習鞏固概念，最後用部落格與設計模式補強實務經驗。
+Golang（Go 語言）是一門由 Google 推出的高效能、簡潔且具備強大併發能力的程式語言。
+本懶人包整理了 入門必讀 → 範例實作 → 進階閱讀 → 中文資源 → 社群互動 → 影音教學 六大類資源，幫助你從零開始，快速掌握語法、提升實戰能力，並與全球 Gopher 社群接軌。
 
 ---
 
